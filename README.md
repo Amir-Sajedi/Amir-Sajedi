@@ -1,7 +1,7 @@
 Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amir
 ============================================================================================================================
 
-Something keeps on telling me that gotta continue the gamedev!
+over obsessed with GameDev!
 
 * 🧠  I'm learning Godot Engine Mechanics
 * 🤝  I'm open to collaborating on Game dev projects
