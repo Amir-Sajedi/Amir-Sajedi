@@ -1,11 +1,11 @@
-Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amir
+Hey Folks! I'm Amir 
 ============================================================================================================================
 
-over obsessed with GameDev!
+Over obsessed with GameDev!
 
 * 🧠  I'm learning Godot Engine Mechanics
 * 🤝  I'm open to collaborating on Game dev projects
-* ⚡  I am also a Professional PC builder/Hardware Expert
+* ⚡  I'm a Professional PC builder/Hardware Expert
 
 ### Skills
 
