@@ -1,10 +1,9 @@
 Hey Folks! I'm Amir 
 ============================================================================================================================
 
-Over obsessed with GameDev!
 
-* 🧠  I'm learning Godot Engine Mechanics
-* 🤝  I'm open to collaborating on Game dev projects
+
+* 🧠  I'm learning a new Framework in order to become a dev!
 * ⚡  I'm a Professional PC builder/Hardware Expert
 
 ### Skills
