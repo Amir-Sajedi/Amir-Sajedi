@@ -1,25 +1,17 @@
-Hey Folks! I'm Amir 
-============================================================================================================================
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=EEFF00&colorEnd=A82DAA&height=200&section=header&text=Howdy%21++Amir+btw&fontSize=30&fontColor=ffffff&animation=waving&gradientDirection=horizontal&parallax=false&wavePosition=70&waveAmplitude=5&waveSpeed=58&flipWave=false&textAlignX=50&textAlignY=50&rtl=24&rtr=24&rbr=0&rbl=0" />
+</div>
 
+<p align="center">Computer Science Student, leaning towards Software with a background of Hardware and GameDev!</p>
 
+<div align="center">
+  <img src="https://hgkqlx7urg.ufs.sh/f/fSxuE381F0MK5lBT1FJNm4ZI3aF0x7KeJyVPtuEonHq1hCXR" alt="" width="300" />
+</div>
 
-* 🧠  I'm learning a new Framework in order to become a dev!
-* ⚡  I'm a Professional PC builder/Hardware Expert
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Amir Sajedi) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a_sajedi@mathdep.iust.ac.ir)
+</div>
 
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Amir-Sajedi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/amir-sajedi-b129b235a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Amir-Sajedi"><img src="https://github-readme-stats.vercel.app/api?username=Amir-Sajedi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Amir-Sajedi's GitHub stats" /></a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&height=30&lines=Hardware%20Technician%3BMaster%20of%20craft(Air)" alt="Typing SVG" />
+</div>
