@@ -8,9 +8,6 @@
   <img src="https://hgkqlx7urg.ufs.sh/f/fSxuE381F0MK5lBT1FJNm4ZI3aF0x7KeJyVPtuEonHq1hCXR" alt="" width="300" />
 </div>
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Amir Sajedi) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a_sajedi@mathdep.iust.ac.ir)
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&height=30&lines=Hardware%20Technician%3BMaster%20of%20craft(Air)" alt="Typing SVG" />
